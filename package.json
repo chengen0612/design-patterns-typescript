@@ -4,7 +4,7 @@
   "description": "Design pattern implementations in TypeScript.",
   "main": "main.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon main.ts"
   },
   "author": "Evans Wu",
   "license": "MIT",
