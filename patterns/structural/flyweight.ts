@@ -1,5 +1,3 @@
-/// <reference no-default-lib="true"/>
-
 class ImageData {
   readonly url: string;
 
