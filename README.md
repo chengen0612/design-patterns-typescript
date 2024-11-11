@@ -57,6 +57,38 @@ The examples are designed with the following principles in mind:
 | [Method Chaining][] | Call multiple methods on an object in a single statement |
 | [Null Object][]     | Provide a default object with no meaningful behavior     |
 
+## Running the Demo
+
+Follow these steps to set up and run a demo for any design pattern example:
+
+**1. Install dependencies**
+
+First, install the project dependencies:
+
+```bash
+npm install
+```
+
+**2. Create the entry file**
+
+Create a new file named _main.ts_ at the root of the project. This will server as your entry point to run a specific pattern. To try out a pattern, import the demo and run it like this:
+
+```ts
+import Demo from "./patterns/creational/factory-method";
+
+Demo.run();
+```
+
+**3. Run the demo**
+
+Start the development server and run the demo:
+
+```bash
+npm run dev
+```
+
+The result will be printed in the terminal, and you can modify the example as much as you'd like. :)
+
 ## Contributing
 
 Pull requests are always welcome! You can add features and improvements through PRs, or use issues for bug reports and discussions. :)
