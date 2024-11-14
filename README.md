@@ -89,6 +89,12 @@ npm run dev
 
 The result will be printed in the terminal, and you can modify the example as much as you'd like. :)
 
+## Further Reading
+
+- [Software design pattern - Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern): An excellent quick reference for learning or brushing up on design patterns. Each pattern is clearly defined with its intended use cases and the problems it solves, making it perfect for newcomers.
+- [Head First Design Patterns](https://www.google.com.tw/books/edition/Head_First_Design_Patterns/GGpXN9SMELMC): Takes a fun, engaging approach to design patterns, using real-world examples and witty explanations that make it a page-turner.
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.google.com.tw/books/edition/Design_Patterns/6oHuKQe3TjQC): The definitive guide to design patterns. This classic text offers comprehensive coverage of both theory and practical applications, serving as an authoritative reference for mastering pattern-based design.
+
 ## Contributing
 
 Pull requests are always welcome! You can add features and improvements through PRs, or use issues for bug reports and discussions. :)
